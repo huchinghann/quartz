@@ -4,7 +4,7 @@ tags:
 - read
 ---
 
-## 最近正在讀的書
+## Current
 
-- **[[books/我們住在焦慮星球|我們住在焦慮星球]]** by 麥特‧海格
+- **[[books/Notes on a Nervous Planet|Notes on a Nervous Planet]]** by Matt Haig
 
