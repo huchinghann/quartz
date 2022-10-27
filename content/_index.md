@@ -1,7 +1,12 @@
 ---
-title: "🪴 Digital Garden"
+title: "Digital Garden"
 enableToc: false
 enableRecentNotes: true
 ---
 
-Hi
+Hello, 
+
+
+
+
+- [Bookshelf](/books): a collection of my favorite books.
