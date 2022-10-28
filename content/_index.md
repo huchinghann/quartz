@@ -26,8 +26,12 @@ enableRecentNotes: true
 - [[notes/Daily What]]：我的一萬個蝦咪。
 - [[notes/Daily Why]]：我的一萬個為什麼。
 
+## 參園手冊
 
-## 超級感謝
+- [請先召喚空白之神](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)↩︎
+
+
+### 超級感謝
 
 感謝[朱騏的電子報](https://henrychu.substack.com/p/no94-7) 和他無私的教學，這片小花園才得以開始發芽。
 
