@@ -11,7 +11,7 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 
 和朋友閒聊的過程中，他想知道我都看什麼書，所以決定把看書的隨記和想法放上來分享。
 
- - [Bookshelf](notes/Bookshelf.md): 歡迎晃晃我的書櫃。
+ - [Bookshelf](notes/Bookshelf.md): 喜歡的書們。
  - [Journal](notes/Journal.md): 公開日記。
 
 
