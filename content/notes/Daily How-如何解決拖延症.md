@@ -23,7 +23,6 @@ openToc: true
 
 ![2 Day Rule](notes/images/2_day_rule.jpg)
 
-### 3. [[notes/Book-五秒法則]]
+### 3. Mel Robbins-五秒法則
 
-當你想做什麼，試著倒數5‧4‧3‧2‧1！然後就可以馬上動起來了！
-
+Mel Robbins 寫了一本書 [[notes/Book-五秒法則]]，一句話總結這本書就是，當你想做什麼，試著倒數5‧4‧3‧2‧1！就可以馬上動起來了！
