@@ -1,7 +1,7 @@
 ---
 title: "Daily What"
 tags: 
-- Productivity
+- Better Me
 enableToc: false
 ---
 

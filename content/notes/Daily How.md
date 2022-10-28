@@ -1,7 +1,7 @@
 ---
 title: "Daily How"
 tags: 
-- Productivity
+- Better Me
 enableToc: false
 ---
 

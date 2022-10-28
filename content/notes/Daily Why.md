@@ -1,7 +1,7 @@
 ---
 title: "Daily Why"
 tags: 
-- Productivity
+- Better Me
 enableToc: false
 ---
 
