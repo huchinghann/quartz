@@ -15,9 +15,9 @@ enableRecentNotes: true
 
 ## 園丁日常
 
+- [[notes/Atomic Essay]]：原子書寫。
 - [Bookshelf](notes/Bookshelf.md)：喜歡的書們。
 - [Journal](notes/Journal.md)：公開日記。
-- [[notes/Atomic Essay]]：原子書寫。
 - [[notes/Random Thoughts]]：隨機隨機，日理萬機。
 
 ## 撒播
