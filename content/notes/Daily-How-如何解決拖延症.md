@@ -1,5 +1,5 @@
 ---
-title: "Daily How-如何解決拖延症"
+title: "Daily-How-如何解決拖延症"
 tags: Productivity
 - 
 openToc: true
