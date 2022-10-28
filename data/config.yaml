@@ -17,9 +17,10 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Welome to my yard!
 page_title:
-  "🪴 Digital Garden"
+  "🌵 Digital Garden"
 links:
   - link_name: Twitter
     link: https://twitter.com/huchinghann
-  - link_name: Github
-    link: https://github.com/huchinghann
+links:
+  - link_name: Photos
+    link: https://huchinghann.mypixieset.com/
