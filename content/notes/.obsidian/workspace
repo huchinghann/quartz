@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-10-27 Thursday.md",
+            "file": "摩擦力的力量.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-27 Thursday.md",
+                "file": "摩擦力的力量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-27 Thursday.md",
+                "file": "摩擦力的力量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-27 Thursday.md"
+                "file": "摩擦力的力量.md"
               }
             }
           }
@@ -130,10 +130,12 @@
   },
   "active": "b5c8b35102670d6a",
   "lastOpenFiles": [
+    "content/notes/images/The.md",
     "摩擦力的力量.md",
     "2022-10-27 Thursday.md",
-    "Journal.md",
+    "Book-我們住在焦慮星球.md",
     "Bookshelf.md",
-    "Book-我們住在焦慮星球.md"
+    "Journal.md",
+    "notes/摩擦力的力量.md"
   ]
 }
