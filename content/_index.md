@@ -10,7 +10,7 @@ enableRecentNotes: true
 
 花園裡有許多半熟筆記，有些會發芽，有些不會，而有些想法會茁壯，有些不會。
 
-我懷抱著熱情、耐心和超強的好奇心，栽種屬於自己的一片小天地，盡情將花園當作一個筆記的遊樂場。我明白或許有些想法最後還是枯死了...但這就是人生，擁抱無常😉
+我懷抱著熱情、耐心和超強的好奇心，栽種屬於自己的小天地，盡情將花園當作筆記的遊樂場。我明白或許有些想法最後還是枯死了...但這就是人生，擁抱無常😉
 
 
 
@@ -20,7 +20,7 @@ enableRecentNotes: true
 - [Journal](notes/Journal.md)：公開日記。
 - [[notes/Random Thoughts]]：隨機隨機，日理萬機。
 
-## 撒播播種
+## 撒播
 
 - [[notes/Daily How]]：我的一萬個怎麼做。
 - [[notes/Daily What]]：我的一萬個蝦咪。
@@ -32,7 +32,7 @@ enableRecentNotes: true
 感謝[朱騏的電子報](https://henrychu.substack.com/p/no94-7) 和他無私的教學，這片小花園才得以開始發芽。
 
 
-### 其他人的數位花園
+### 其他數位花園
 
 - [Quartz's Showcase](https://quartz.jzhao.xyz/notes/showcase/)
 - [朱騏](https://chichu.me/)
