@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "6f7171ee96d8a827",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c8b35102670d6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-10-27 Thursday.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faa1d0aac46e552f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8b1e321a4c5679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b49ed034e568e6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b2cd310adedb535",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4104891b78554eaa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1cc26228c911dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c703a4d548b498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62140043ecc6eafa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-27 Thursday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5320b6e8e105829",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-27 Thursday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a66a0a1cd50e317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbe26cfac975e817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-27 Thursday.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5c8b35102670d6a",
+  "lastOpenFiles": [
+    "摩擦力的力量.md",
+    "2022-10-27 Thursday.md",
+    "Journal.md",
+    "Bookshelf.md",
+    "Book-我們住在焦慮星球.md"
+  ]
+}
