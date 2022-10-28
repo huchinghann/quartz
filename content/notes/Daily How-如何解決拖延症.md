@@ -16,12 +16,12 @@ openToc: true
 
 想想都比較簡單，真的面對到事情的時候，還是會擺爛不想做，到底該怎麼辦呢？我也會輪流用下面三個方法逼迫自己：
 
-### 1. Ali Abdaal - [Force youself to start](https://aliabdaal.com/force-yourself-to-start/)
+### 1. Ali Abdaal - [Force youself to start 網路文章](https://aliabdaal.com/force-yourself-to-start/)↗
 
 很喜歡部落格開頭第一句話：If you want to start something, don’t wait, just start. **如果想開始什麼，不要等，就立刻開始**。  
 
 
-### 2. Matt D'Avella - [兩天鎖鏈法](https://www.youtube.com/watch?v=bfLHTLQZ5nc)
+### 2. Matt D'Avella - [兩天鎖鏈法 YouTube 影片](https://www.youtube.com/watch?v=bfLHTLQZ5nc)↗
 
 想培養習慣，例如運動，不能超過兩天不做，不然習慣鎖鏈就會斷掉（參考下圖）。
 
