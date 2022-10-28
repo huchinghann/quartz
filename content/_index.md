@@ -38,7 +38,7 @@ enableRecentNotes: true
 
 ### 其他數位花園
 
-- [Quartz's Showcase](https://quartz.jzhao.xyz/notes/showcase/)
 - [朱騏](https://chichu.me/)
 - [Maggie Appleton](https://maggieappleton.com/garden)
 - [Salman](https://salman.io/notes/digital-gardens/)
+- [Quartz's Showcase](https://quartz.jzhao.xyz/notes/showcase/)
