@@ -2,6 +2,7 @@
 title: "Daily How-如何解決拖延症"
 tags: 
 - Productivity
+- Procrastination Breaker
 openToc: true
 ---
 
