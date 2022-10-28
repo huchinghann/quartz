@@ -13,7 +13,7 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 
 - [Bookshelf](notes/Bookshelf.md)：喜歡的書們。
 - [Journal](notes/Journal.md)：公開日記。
-
+- [[notes/Random Thoughts]]: 隨機隨機，日理萬機。
 
 ## Snapshots
 
@@ -21,7 +21,7 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 - [[notes/Daily What]]：我的一萬個蝦咪。
 - [[notes/Daily Why]]：我我的一萬個為什麼。
 
-- [[notes/Random Thoughts]]: 隨機隨機，日理萬機。
+
 
 
 ## 給自己的小提醒
