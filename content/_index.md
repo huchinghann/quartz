@@ -4,7 +4,7 @@ enableToc: false
 enableRecentNotes: true
 ---
 
-Hello, 歡迎來到我的數位花園(digital garden)！
+Hello, 我是胡！或是可以叫我 hann，歡迎來到我的數位花園(digital garden)！
 
 
 ## 在這邊會更新什麼東東
