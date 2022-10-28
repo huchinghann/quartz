@@ -23,4 +23,4 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 
 ## 超級感謝
 
-感謝[朱騏的電子報](https://henrychu.substack.com/p/no94-7)和他無私的教學，這片小花園才得以開始發芽。
+感謝[朱騏的電子報](https://henrychu.substack.com/p/no94-7) 和他無私的教學，這片小花園才得以開始發芽。
