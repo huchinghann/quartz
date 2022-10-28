@@ -24,7 +24,7 @@ openToc: true
 
 ### 2. Matt D'Avella - [兩天鎖鏈法 YouTube 影片](https://www.youtube.com/watch?v=bfLHTLQZ5nc)↗
 
-想培養習慣，例如運動，不能超過兩天不做，不然習慣鎖鏈就會斷掉（參考下圖）。
+想培養習慣，例如運動，不能超過兩天不做，不然習慣鎖鏈就會斷掉（實作參考下圖）。
 
 ![2 Day Rule](notes/images/2_day_rule.jpg)
 
