@@ -2,6 +2,7 @@
 title: "🌵 Digital Garden"
 enableToc: false
 enableRecentNotes: true
+enableGlobalGraph: true
 ---
 
 Hello, 歡迎來到我的數位花園(digital garden)！
