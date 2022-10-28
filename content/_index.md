@@ -8,7 +8,7 @@ enableRecentNotes: true
 
 我是 hann，歡迎來到我的數位花園 (digital garden)！
 
-我懷抱著熱情、耐心和超強的好奇心，栽種屬於自己的小天地。花園裡的半熟筆記，有些會發芽，有些會茁壯，但有些不一定會有明顯的變化，甚至有些想法最後還是枯死了...但這就是人生，擁抱無常😉
+我懷抱著熱情、耐心和超強的好奇心，栽種屬於自己的小天地。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
 
 盡情將花園當作筆記的遊樂場，[Journey before destination.](https://aliabdaal.com/journey-before-destination/)
 
@@ -17,6 +17,7 @@ enableRecentNotes: true
 
 - [Bookshelf](notes/Bookshelf.md)：喜歡的書們。
 - [Journal](notes/Journal.md)：公開日記。
+- [Atomic Essay](notes/Atomic Essay.md)：原子書寫。
 - [[notes/Random Thoughts]]：隨機隨機，日理萬機。
 
 ## 撒播
