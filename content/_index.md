@@ -17,11 +17,11 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 
 ## Snapshots
 
-- [Daily How](notes/Daily How.md): 我的一萬個怎麼做。
-- [Daily What](notes/Daily What.md): 我的一萬個蝦咪。
-- [Daily Why](notes/Daily Why.md): 我我的一萬個為什麼。
+- [[notes/Daily How]]我的一萬個怎麼做。
+- [[notes/Daily What]] 我的一萬個蝦咪。
+- [[notes/Daily Why]]: 我我的一萬個為什麼。
 
-- [Random Thoughts](notes/Random Thoughts.md): 隨機隨機，日理萬機。
+-[[notes/Random Thoughts]]: 隨機隨機，日理萬機。
 
 
 ## 給自己的小提醒

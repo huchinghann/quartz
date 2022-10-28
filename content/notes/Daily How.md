@@ -8,4 +8,4 @@ enableToc: false
 
 ## Daily How
 
-- [[notes/Book-Daily How-如何解決拖延症]]
+- [[notes/Daily How-如何解決拖延症]]
