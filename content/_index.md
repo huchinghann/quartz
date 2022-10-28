@@ -15,7 +15,7 @@ Hello, 歡迎來到我的數位花園(digital garden)！
 - [Journal](notes/Journal.md)：公開日記。
 - [[notes/Random Thoughts]]: 隨機隨機，日理萬機。
 
-## Snapshots
+## 每日快照
 
 - [[notes/Daily How]]：我的一萬個怎麼做。
 - [[notes/Daily What]]：我的一萬個蝦咪。
