@@ -398,7 +398,7 @@ header {
     }
 
     .search-path {
-      stroke: #e7e5e0;
+      stroke: var(--gray);
       stroke-width: 2px;
       transition: stroke 0.5s ease;
     }

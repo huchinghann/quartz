@@ -42,24 +42,3 @@
     opacity: 0;
   }
 }
-
- #search-icon {
-    background-color: #292633;
-    border-radius: 4px;
-    height: 2em;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    & > p {
-      display: inline;
-      padding: 0 1.5em 0 2em;
-    }
-  }
-
- .search-path {
-      stroke: #333312F;
-      stroke-width: 2px;
-      transition: stroke 0.5s ease;
-    }
-  }
-}
