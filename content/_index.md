@@ -9,4 +9,4 @@ Hello,
 
 
 
-- [Bookshelf](Bookshelf.md): a collection of my favorite books.
+- [Bookshelf](notes/Bookshelf.md): a collection of my favorite books.
