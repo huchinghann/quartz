@@ -2,6 +2,7 @@
 title: "Bookshelf"
 tags:
 - read
+openToc: true
 ---
 
 ## Current
