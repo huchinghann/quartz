@@ -6,5 +6,5 @@ tags:
 
 ## Current
 
-- **[Notes on a Nervous Planet](books/Notes%20on%20a%20Nervous%20Planet.md)** by Matt Haig
+- **[Notes on a Nervous Planet](books/Notes-on-a-Nervous-Planet.md)** by Matt Haig
 
