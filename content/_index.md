@@ -6,11 +6,11 @@ enableRecentNotes: true
 
 哈囉咪那桑👋
 
-我是 hann，歡迎來到我的數位花園 (digital garden)！
+我是 hann，發音是憨，或可以叫我胡，歡迎來到我的數位花園 (digital garden)！
 
-懷抱熱情和超強大的好奇心，栽種屬於自己的小天地。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
+我懷抱熱情和超強大的好奇心，栽種屬於自己的數位花園。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
 
-盡情享受將花園當作筆記的遊樂場，[Journey before destination.](https://aliabdaal.com/journey-before-destination/)
+在這，我試著盡情享受把花園當作筆記的遊樂場，[Journey before destination.](https://aliabdaal.com/journey-before-destination/)
 
 
 ## 園丁日常
