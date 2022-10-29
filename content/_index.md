@@ -1,5 +1,5 @@
 ---
-title: "🌵 Digital Garden"
+title: "🌵 h.dGarden"
 enableToc: false
 enableRecentNotes: true
 ---
