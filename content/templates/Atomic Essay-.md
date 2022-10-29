@@ -1,5 +1,5 @@
 ---
-title: "Atomic Essay--"
+title: "Atomic Essay-"
 date: ""
 tags: 
 - Atomic Essay

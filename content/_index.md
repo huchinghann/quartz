@@ -8,7 +8,7 @@ enableRecentNotes: true
 
 我是 hann，歡迎來到我的數位花園 (digital garden)！
 
-懷抱著熱情、耐心和超強大的好奇心，栽種屬於自己的小天地。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
+懷抱熱情和超強大的好奇心，栽種屬於自己的小天地。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
 
 盡情享受將花園當作筆記的遊樂場，[Journey before destination.](https://aliabdaal.com/journey-before-destination/)
 
@@ -32,6 +32,8 @@ enableRecentNotes: true
 
 - [召喚空白之神，讀起來更舒服](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)↩︎
 - [滑鼠中鍵，另開連結新視窗](https://ppt.cc/ojO4)↩︎
+
+---
 
 ### 超級感謝
 

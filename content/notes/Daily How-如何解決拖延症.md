@@ -31,3 +31,7 @@ openToc: true
 ### 3. Mel Robbins-五秒法則
 
 Mel Robbins 是名知名 TED 講者，也是和美國相當著名的暢銷書作家。她寫了一本書 [[notes/Book-五秒法則]]，一句話總結就是，當你想做什麼，試著倒數 5‧4‧3‧2‧1！就能馬上動起來了！
+
+---
+#### 主題其他文章
+[[notes/Daily How]]
