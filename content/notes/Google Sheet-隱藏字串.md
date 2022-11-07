@@ -12,4 +12,5 @@ enableToc: false
 使用 REPLACE 函數來將手機的中間幾個號碼以「xxx」取代
 
 REPLACE(文字, 位置, 長度, 新文字)
-=REPLACE(A1,5,3,"xxx")
+
+`=REPLACE(A1,5,3,"xxx")`
