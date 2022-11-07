@@ -4,9 +4,9 @@ enableToc: false
 enableRecentNotes: true
 ---
 
-哈囉咪那桑 👋
+哈囉咪那桑👋
 
-🦊 我是咖灰狐，或是叫我胡 (Hu)、hann 都行！歡迎來到我的數位花園 (digital garden)！
+我是咖灰狐🦊   或是叫我胡 (Hu)、hann 都行！歡迎來到我的數位花園 (digital garden)！
 
 我懷抱熱情和超強大的好奇心，栽種屬於自己的數位花園。花園裡的半熟筆記，有些會發芽，有些會茁壯，但大部分不一定會有明顯的變化，甚至有的最後還是枯死了...但這就是人生，擁抱無常😉
 
@@ -17,7 +17,6 @@ enableRecentNotes: true
 
 - [[notes/Atomic Essay]]：原子書寫。
 - [Bookshelf](notes/Bookshelf.md)：喜歡的書們。
-- [[notes/Cinema Home]]：追劇紀錄。
 - [Journal](notes/Journal.md)：公開日記。
 - [[notes/Random Thoughts]]：隨機隨機，日理萬機。
 
