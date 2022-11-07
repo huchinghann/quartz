@@ -23,7 +23,7 @@ enableToc: false
 ### 日文字型
 
 - [LINE Seed](https://seed.line.me/index_jp.html)-LINE 官方字型 (免費商用)
-- [フォントフリー  fontfree](https://fontfree.me/)
+- [fontfree フォントフリー](https://fontfree.me/)
 
 
 ### 中文字型
