@@ -17,7 +17,7 @@ enableRecentNotes: true
 
 - [[notes/Atomic Essay]]：原子書寫。
 - [Bookshelf](notes/Bookshelf.md)：喜歡的書們。
-- [[Cinema Home]]：追劇隨寫。
+- [[notes/Cinema Home]]：追劇隨寫。
 - [Journal](notes/Journal.md)：公開日記。
 - [[notes/Random Thoughts]]：隨機隨機，日理萬機。
 
