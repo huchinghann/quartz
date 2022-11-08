@@ -9,7 +9,7 @@ openToc: true
 
 ## 最近看什麼電影
 
-- [[notes/Film-PS. I Love You]]
+- [[Film-PS I Love You]]
 
 
 ## 最近看什麼劇

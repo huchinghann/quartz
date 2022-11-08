@@ -1,5 +1,5 @@
 ---
-title: "Film-PS. I Love You"
+title: "Film-PS I Love You"
 tags:
 - Film Review
 - Film
