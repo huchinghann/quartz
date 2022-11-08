@@ -6,4 +6,4 @@
 
 ### 這個網站是用 Quartz 架設的
 
-🔗 試試看吧: https://quartz.jzhao.xyz/
+🔗 試試看吧 https://quartz.jzhao.xyz/
