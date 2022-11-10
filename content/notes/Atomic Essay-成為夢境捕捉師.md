@@ -8,7 +8,7 @@ tags:
 
 夢很特別，就像 Neil Gaiman 曾說：
 
-> [Dreams are what differentiate people from one another.]([https://www.npr.org/2015/12/15/458319575/neil-gaiman-on-returning-to-sandman-talking-in-his-sleep-and-power-of-comics#:~:text=Author Neil Gaiman has, from one another.) 夢是人與人之間的區別。
+> [Dreams are what differentiate people from one another.](https://www.npr.org/2015/12/15/458319575/neil-gaiman-on-returning-to-sandman-talking-in-his-sleep-and-power-of-comics#:~:text=Author Neil Gaiman has, from one another.) 夢是人與人之間的區別。
 
 每個人都做過不同的夢，你可以夢到日常生活中上學或上班的情境，夢到心儀的人、夢到死去的人、夢到天使、夢到變裸體、夢到牙齒斷掉、夢到在另一個星球、夢到變成另一種動物。
 
